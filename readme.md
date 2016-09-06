@@ -75,7 +75,8 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 community organizer as soon as possible. You may also reach the organizing team at
 [hola@scaleconfco.com](mailto://hola@scaleconfco.com)
 
-[LINK_TO_REPORTING_GUIDELINES]
+Please read the
+[reporting guidelines](https://github.com/ScaleConfCo/code-of-conduct/blob/master/reporting-template.md).
 
 Additionally, community organizers are available to help community members engage with local law
 enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context
@@ -86,11 +87,7 @@ distress.
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should
 notify the organizers with a concise description of your grievance. Your grievance will be handled
-in accordance with our existing governing policies. [LINK_TO_POLICY]
-
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions
-of community members. It is strongly recommended that you mention those policies here or in Section
-7 and that you include a mechanism for addressing grievances.]
+in accordance with our existing governing policies.
 
 ## 8. Scope
 
