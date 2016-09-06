@@ -88,7 +88,9 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 notify the organizers with a concise description of your grievance. Your grievance will be handled
 in accordance with our existing governing policies. [LINK_TO_POLICY]
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions
+of community members. It is strongly recommended that you mention those policies here or in Section
+7 and that you include a mechanism for addressing grievances.]
 
 ## 8. Scope
 
@@ -100,12 +102,17 @@ This code of conduct and its related procedures also applies to unacceptable beh
 outside the scope of community activities when such behavior has the potential to adversely affect
 the safety and well-being of community members.
 
-## 9. Contact info
+## 9. Need Help?
+
+If you have any questions, comments, concerns, or to report anything that makes you feel
+uncomfortable or unsafe, you can use these channels:
 
 [hola@scaleconfco.com](mailto://hola@scaleconfco.com)
 
-Catherine Lopez - [@LopezCatherine](https://twitter.com/LopezCatherine)
-David Castillo - [@castillobgr](https://twitter.com/castillobgr)
+Send a direct message to the following Twitter accounts:
+* Catherine Lopez - [@LopezCatherine](https://twitter.com/LopezCatherine)
+* David Castillo - [@castillobgr](https://twitter.com/castillobgr)
+* ScaleConf Colombia - [@scaleconfco](https://twitter.com/scaleconfco)
 
 ## 10. License and attribution
 

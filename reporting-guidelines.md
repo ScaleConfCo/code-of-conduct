@@ -1,6 +1,6 @@
 # How to deal with Code of Conduct Reports (for Conference Organizers)
 
-This is meant to guide how we, as a group, handle a report of a Code of Conduct Abuse.
+This is meant to guide how we the organizers, as a group, handle a report of a Code of Conduct Abuse.
 
 ## Immediately After
 
