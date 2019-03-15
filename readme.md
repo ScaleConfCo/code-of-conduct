@@ -104,11 +104,11 @@ the safety and well-being of community members.
 If you have any questions, comments, concerns, or to report anything that makes you feel
 uncomfortable or unsafe, you can use these channels:
 
-[hola@scaleconfco.com](mailto://hola@scaleconfco.com)
+[hola@scaleconfco.com](mailto:hola@scaleconfco.com)
 
 Send a direct message to the following Twitter accounts:
 * Catherine Lopez - [@LopezCatherine](https://twitter.com/LopezCatherine)
-* David Castillo - [@castillobgr](https://twitter.com/castillobgr)
+* Jonathan Avendaño - [@jdavidavendano](https://twitter.com/jdavidavendano)
 * ScaleConf Colombia - [@scaleconfco](https://twitter.com/scaleconfco)
 
 ## 10. License and attribution
